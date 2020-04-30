@@ -1,0 +1,5 @@
+test/yushuxin.jpg 0
+test/xujiaqi.jpg 1
+test/zhaoxiaotang.jpg 2
+test/anqi.jpg 3
+test/wangchengxuan.jpg 4
